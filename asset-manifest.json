@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/muwanguziisaacdev/static/css/main.d825b1b6.css",
+    "main.js": "/muwanguziisaacdev/static/js/main.28932549.js",
+    "index.html": "/muwanguziisaacdev/index.html",
+    "main.d825b1b6.css.map": "/muwanguziisaacdev/static/css/main.d825b1b6.css.map",
+    "main.28932549.js.map": "/muwanguziisaacdev/static/js/main.28932549.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d825b1b6.css",
+    "static/js/main.28932549.js"
+  ]
+}
